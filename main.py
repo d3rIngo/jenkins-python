@@ -1,1 +1,2 @@
-print("Hello World, ich bin Ingo")
+print("Hello World")
+print("Ich bin ein Roboter")
